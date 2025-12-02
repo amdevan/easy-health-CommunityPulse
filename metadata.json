@@ -1,0 +1,7 @@
+{
+  "name": "easy health-CommunityPulse",
+  "description": "A comprehensive platform for community health outreach, managing health camps, wellness packages, and municipal partnerships with AI-driven insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
